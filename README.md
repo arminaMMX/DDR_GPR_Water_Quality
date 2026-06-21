@@ -65,7 +65,3 @@ Model performance is assessed using R², RMSE, MAE, MAPE, and Symmetric Signed P
 If you use this code, please cite:
 
 > Moradi, M., Lu, M., & Arabi, B. (*in preparation*). Gaussian Process Embedded Feature Selection based on Automatic Relevance Determination for Remote Sensing Estimation of Chlorophyll-*a* in Coastal Waters.
-
----
-
-This description is structured to serve directly as your GitHub README. Let me know if you'd like to adjust the tone, add installation/usage instructions, or include badges (license, Python version, DOI, etc.).
